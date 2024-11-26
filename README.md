@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**mvds-dev/mvds-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, world! I'm Mateus Sousa  
+I'm a passionate software developer, always curious to learn and create!
 
-Here are some ideas to get you started:
+### 🌟 About Me  
+- 🖥️ Started my tech journey at 5 years old with an Intel 486-powered PC.  
+- 🌱 Currently learning advanced mobile, cloud services, web development.  
+- 🚀 Passionate about creating impactful software and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages**: \
+        ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
+        ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+- **Frameworks**: \
+        ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square) 
+        ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+-  **Tools**: \
+        ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
+        ![Neovim](https://img.shields.io/badge/-Neovim-00?logo=neovim&logoColor=white&style=flat-square)

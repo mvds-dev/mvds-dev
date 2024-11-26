@@ -3,7 +3,7 @@
 I'm a passionate software developer, always curious to learn and create!
 
 ### 🌟 About Me  
-- 🖥️ Started my tech journey at 5 years old with an Intel 486-powered PC.  
+- 🖥️ Started my tech at 16 with my first linux computer.  
 - 🌱 Currently learning advanced mobile, cloud services, web development.  
 - 🚀 Passionate about creating impactful software and exploring new technologies.
 

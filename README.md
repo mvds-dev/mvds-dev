@@ -44,4 +44,4 @@ I'm a passionate software developer, always curious to learn and create!
 ### 📫 Get in Touch  
 - Email: [min705555@gmail.com](mailto:min705555@gmail.com)
 - Linkedin [Mateus Viana](https://www.linkedin.com/in/mateus-viana-de-sousa/)
-- ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) [MonkeyProgrammer](https://www.twitch.tv/monkeyprogrammer)
+- ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&style=flat-square) [MonkeyProgrammer](https://www.twitch.tv/monkeyprogrammer)

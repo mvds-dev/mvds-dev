@@ -15,6 +15,7 @@ I'm a passionate software developer, always curious to learn and create!
         ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
         ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&style=flat-square)
         ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&style=flat-square)
+        ![Lua](https://img.shields.io/badge/Lua-000090?style=for-the-badge&logo=lua&logoColor=white&style=flat-square)
 - **Frameworks**: \
         ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
         ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)

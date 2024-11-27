@@ -1,4 +1,4 @@
-
+.
 ## 👋 Hello, world! I'm Mateus Sousa  
 I'm a passionate software developer, always curious to learn and create!
 
@@ -10,10 +10,18 @@ I'm a passionate software developer, always curious to learn and create!
 ### 🛠️ Skills & Tools
 - **Languages**: \
         ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-        ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+        ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+        ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 - **Frameworks**: \
         ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square) 
         ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 -  **Tools**: \
-        ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
-        ![Neovim](https://img.shields.io/badge/-Neovim-00?logo=neovim&logoColor=white&style=flat-square)
+        ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+        ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat-square)  
+        ![Zed](https://img.shields.io/badge/-Zed-000000?logo=code&logoColor=white&style=flat-square) 
+        ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)  
+- **DevOps & Cloud**  
+        ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+        ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)  
+        ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)  
+        ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)  

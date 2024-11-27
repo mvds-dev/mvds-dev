@@ -43,5 +43,5 @@ I'm a passionate software developer, always curious to learn and create!
 ---
 
 ### 📫 Get in Touch  
-- Email: [min705555@gmail.com](mailto:min705555@gmail.com)  
-- GitHub: [github.com/MateusVSousa](https://github.com/MateusVSousa)  
+- Email: [min705555@gmail.com](mailto:min705555@gmail.com)
+- Linkedin [Mateus Viana](https://www.linkedin.com/in/mateus-viana-de-sousa/)

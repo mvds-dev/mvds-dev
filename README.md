@@ -35,7 +35,6 @@ I'm a passionate software developer, always curious to learn and create!
 ---
 
 ### 📊 GitHub Stats  
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvds-dev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvds-dev&layout=compact&theme=radical)  
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvds-dev&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvds-dev&layout=compact&theme=radical)  
 
 ---

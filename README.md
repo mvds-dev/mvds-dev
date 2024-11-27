@@ -31,6 +31,7 @@ I'm a passionate software developer, always curious to learn and create!
         ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
         ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
         ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+  
 
 ---
 
@@ -40,3 +41,7 @@ I'm a passionate software developer, always curious to learn and create!
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvds-dev&show_icons=true&theme=radical) 
 
 ---
+
+### 📫 Get in Touch  
+- Email: [min705555@gmail.com](mailto:min705555@gmail.com)  
+- GitHub: [github.com/MateusVSousa](https://github.com/MateusVSousa)  

@@ -1,12 +1,14 @@
-.
+---
 ## 👋 Hello, world! I'm Mateus Sousa  
 I'm a passionate software developer, always curious to learn and create!
 
+---
 ### 🌟 About Me  
 - 🖥️ Started my tech at 16 with my first linux computer.  
 - 🌱 Currently learning advanced mobile, cloud services, web development.  
 - 🚀 Passionate about creating impactful software and exploring new technologies.
 
+---
 ### 🛠️ Skills & Tools
 - **Languages**: \
         ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -28,3 +30,11 @@ I'm a passionate software developer, always curious to learn and create!
         ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
         ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
         ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+
+---
+
+### 📊 GitHub Stats  
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusVSousa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVSousa&layout=compact&theme=radical)  
+
+---

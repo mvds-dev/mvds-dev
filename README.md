@@ -4,9 +4,9 @@ I'm a passionate software developer, always curious to learn and create!
 
 ---
 ### 🌟 About Me  
-- 🖥️ Started my tech at 16 with my first linux computer.  
-- 🌱 Currently learning advanced mobile, cloud services, web development.  
-- 🚀 Passionate about creating impactful software and exploring new technologies.
+- 🖥️ Started at tech in my 16, with my first linux computer.  
+- 🌱 Currently learning and advancing mobile development, cloud services, web development.  
+- 🚀 Passionate about discovery about software, hardware, new tecnologies and be the nerd I'm.
 
 ---
 ### 🛠️ Skills & Tools

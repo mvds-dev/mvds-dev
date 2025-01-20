@@ -12,7 +12,7 @@ I'm a passionate software developer, always curious to learn and create!
 ### 🛠️ Skills & Tools
 - **Languages**: \
         ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-        ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?logo=typescript&logoColor=black&style=flat-square)
+        ![TypeScript](https://img.shields.io/badge/-TypeScript-4964CC?logo=typescript&logoColor=black&style=flat-square)
         ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
         ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&style=flat-square)
         ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&style=flat-square)
